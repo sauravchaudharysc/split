@@ -17,7 +17,7 @@ Here,
 Lets try to settle these amount:-
 Debit Mode   Credit Mode
 A -60         B 50
-	            C 10
+	      C 10
  
 So here we choose the largest debiter and try to settle the largest crediter.
 I will take 50 rupees from A and settle the credit of B. So doing this A will 
